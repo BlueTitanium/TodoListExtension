@@ -1,0 +1,19 @@
+.App {
+    padding: 32px;
+  }
+  .todo {
+    display: flex;
+    padding: 8px;
+    margin: 8px;
+    background-color: whitesmoke;
+  }
+  .todo p {
+    margin: 0;
+    margin-right: 16px;
+  }
+  .create-todo-form {
+    text-align: center;
+  }
+  .create-todo-form button {
+    margin: 5px;
+  }
